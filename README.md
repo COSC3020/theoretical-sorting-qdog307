@@ -23,7 +23,7 @@ The second part of the evaluation would involve theoretical testing. From what w
 
 By combining these two approaches, we can thoroughly investigate the validity of the claim. If the algorithm is genuinely comparison-based, the $O(n)$ claim would contradict established theoretical limits, making it highly unlikely. However, if the algorithm is not purely general-purpose, it might achieve $O(n)$ for specific cases while not fulfilling its broad claims.
 
-##Sources 
+## Sources 
 I used the lecture sides in sorting focusing on the theortical section of the slides for the information of bounds. 
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice. 
